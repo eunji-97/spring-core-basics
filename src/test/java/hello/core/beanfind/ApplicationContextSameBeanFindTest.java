@@ -28,7 +28,7 @@ public class ApplicationContextSameBeanFindTest {
     }
 
     @Test
-    @DisplayName("같은 타입의 빈이 둘 이상 있으면 이름을 지어주자")
+    @DisplayName("같은 타입의 빈이 둘 이상 있으면 이름으로 조회하자")
     void findBeanByName() {
         MemberRepository memberRepository1 = ac.getBean("memberRepository1", MemberRepository.class);
 
