@@ -5,6 +5,18 @@
 
 ## 🗂️ 개념 정리
 
+| # | 정리 문서 | 파일 |
+|---|----------|------|
+| 1 | 회원 도메인 실행과 테스트 | [`1.회원_도메인_실행과_ 테스트.md`](src/docs/1.회원_도메인_실행과_%20테스트.md) |
+| 2 | 주문과 할인 도메인 실행과 테스트 | [`2.주문과_할인_도메인_실행과_ 테스트.md`](src/docs/2.주문과_할인_도메인_실행과_%20테스트.md) |
+| 3 | 새로운 할인 정책 적용과 문제점 | [`3. 새로운_할인_정책_적용과_문제점.md`](src/docs/3.%20새로운_할인_정책_적용과_문제점.md) |
+| 4 | 관심사의 분리 | [`4.관심사의_분리.md`](src/docs/4.관심사의_분리.md) |
+| 5 | 스프링으로 전환하기 | [`5.스프링으로_전환하기.md`](src/docs/5.스프링으로_전환하기.md) |
+| 6 | BeanFactory와 ApplicationContext | [`6.BeanFactory와_ApplicationContext.md`](src/docs/6.BeanFactory와_ApplicationContext.md) |
+| 7 | BeanDefinition | [`7.BeanDefinition.md`](src/docs/7.BeanDefinition.md) |
+| 8 | 웹 어플리케이션과 싱글톤 | [`8.웹_어플리케이션과_싱글톤.md`](src/docs/8.웹_어플리케이션과_싱글톤.md) |
+| 9 | 컴포넌트 스캔 | [`9.컴포넌트_스캔.md`](src/docs/9.컴포넌트_스캔.md) |
+
 ---
 
 ## 🧪 실습 코드 구조
