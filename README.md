@@ -18,19 +18,19 @@
 
 | 번호 | 주제 | 문서 |
 |---|---|---|
-| 1 | 회원 도메인 실행과 테스트 | [1. 회원 도메인 실행과 테스트](src/docs/1.%ED%9A%8C%EC%9B%90_%EB%8F%82%EB%A9%94%EC%9D%B8_%EC%8B%A4%ED%96%89%EA%B3%BC_%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md) |
-| 2 | 주문과 할인 도메인 실행과 테스트 | [2. 주문과 할인 도메인 실행과 테스트](src/docs/2.%EC%A3%BC%EB%AC%B8%EA%B3%BC_%ED%95%A0%EC%9D%B8_%EB%8F%82%EB%A9%94%EC%9D%B8_%EC%8B%A4%ED%96%89%EA%B3%BC_%20%ED%85%8C%EC%8A%A4%ED%8A%B8.md) |
-| 3 | 새로운 할인 정책 적용과 문제점 | [3. 새로운 할인 정책 적용과 문제점](src/docs/3.%20%EC%83%88%EB%A1%9C%EC%9A%B4_%ED%95%A0%EC%9D%B8_%EC%A0%95%EC%B1%85_%EC%A0%81%EC%9A%A9%EA%B3%BC_%EB%AC%B8%EC%A0%9C%EC%A0%90.md) |
-| 4 | 관심사의 분리 | [4. 관심사의 분리](src/docs/4.%EA%B4%80%EC%8B%AC%EC%82%AC%EC%9D%98_%EB%B6%84%EB%A6%AC.md) |
-| 5 | 스프링으로 전환하기 | [5. 스프링으로 전환하기](src/docs/5.%EC%8A%A4%ED%94%84%EB%A7%81%EC%9C%BC%EB%A1%9C_%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0.md) |
-| 6 | BeanFactory와 ApplicationContext | [6. BeanFactory와 ApplicationContext](src/docs/6.BeanFactory%EC%99%80_ApplicationContext.md) |
-| 7 | BeanDefinition | [7. BeanDefinition](src/docs/7.BeanDefinition.md) |
-| 8 | 웹 애플리케이션과 싱글톤 | [8. 웹 애플리케이션과 싱글톤](src/docs/8.%EC%9B%B9_%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EA%B3%BC_%EC%8B%B1%EA%B8%80%ED%86%A4.md) |
-| 9 | 컴포넌트 스캔 | [9. 컴포넌트 스캔](src/docs/9.%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%8A%A4%EC%BA%94.md) |
-| 10 | 의존관계 주입 방법 | [10. 의존관계 주입 방법](src/docs/10.%20%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84%20%EC%A3%BC%EC%9E%85%20%EB%B0%A9%EB%B2%95.md) |
-| 11 | 빈 2개 등록 시 해결 | [11. 빈 2개 등록 시 해결](src/docs/11.%20%EB%B9%88%202%EA%B0%9C%20%EB%93%B1%EB%A1%9D%20%EC%8B%9C%20%ED%95%B4%EA%B2%B0.md) |
-| 12 | 빈 생명주기 콜백 | [12. 빈 생명주기 콜백](src/docs/12.%20%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%20%EC%BD%9C%EB%B0%B1.md) |
-| 13 | 빈 스코프 | [13. 빈 스코프](src/docs/13.%20%EB%B9%88%20%EC%8A%A4%EC%BD%94%ED%94%84.md) |
+| 1 | 회원 도메인 실행과 테스트 | [1. 회원 도메인 실행과 테스트](src/docs/01-회원-도메인-실행과-테스트.md) |
+| 2 | 주문과 할인 도메인 실행과 테스트 | [2. 주문과 할인 도메인 실행과 테스트](src/docs/02-주문과-할인-도메인-실행과-테스트.md) |
+| 3 | 새로운 할인 정책 적용과 문제점 | [3. 새로운 할인 정책 적용과 문제점](src/docs/03-새로운-할인-정책-적용과-문제점.md) |
+| 4 | 관심사의 분리 | [4. 관심사의 분리](src/docs/04-관심사의-분리.md) |
+| 5 | 스프링으로 전환하기 | [5. 스프링으로 전환하기](src/docs/05-스프링으로-전환하기.md) |
+| 6 | BeanFactory와 ApplicationContext | [6. BeanFactory와 ApplicationContext](src/docs/06-BeanFactory와-ApplicationContext.md) |
+| 7 | BeanDefinition | [7. BeanDefinition](src/docs/07-BeanDefinition.md) |
+| 8 | 웹 애플리케이션과 싱글톤 | [8. 웹 애플리케이션과 싱글톤](src/docs/08-웹-어플리케이션과-싱글톤.md) |
+| 9 | 컴포넌트 스캔 | [9. 컴포넌트 스캔](src/docs/09-컴포넌트-스캔.md) |
+| 10 | 의존관계 주입 방법 | [10. 의존관계 주입 방법](src/docs/10-의존관계-주입-방법.md) |
+| 11 | 빈 2개 등록 시 해결 | [11. 빈 2개 등록 시 해결](src/docs/11-빈-2개-등록-시-해결.md) |
+| 12 | 빈 생명주기 콜백 | [12. 빈 생명주기 콜백](src/docs/12-빈-생명주기-콜백.md) |
+| 13 | 빈 스코프 | [13. 빈 스코프](src/docs/13-빈-스코프.md) |
 
 ## 🧪 프로젝트 구조
 
