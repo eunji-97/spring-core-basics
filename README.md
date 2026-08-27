@@ -18,19 +18,19 @@
 
 | 번호 | 주제 | 문서 |
 |---|---|---|
-| 1 | 회원 도메인 실행과 테스트 | [1. 회원 도메인 실행과 테스트](src/docs/01-회원-도메인-실행과-테스트.md) |
-| 2 | 주문과 할인 도메인 실행과 테스트 | [2. 주문과 할인 도메인 실행과 테스트](src/docs/02-주문과-할인-도메인-실행과-테스트.md) |
-| 3 | 새로운 할인 정책 적용과 문제점 | [3. 새로운 할인 정책 적용과 문제점](src/docs/03-새로운-할인-정책-적용과-문제점.md) |
-| 4 | 관심사의 분리 | [4. 관심사의 분리](src/docs/04-관심사의-분리.md) |
-| 5 | 스프링으로 전환하기 | [5. 스프링으로 전환하기](src/docs/05-스프링으로-전환하기.md) |
-| 6 | BeanFactory와 ApplicationContext | [6. BeanFactory와 ApplicationContext](src/docs/06-BeanFactory와-ApplicationContext.md) |
-| 7 | BeanDefinition | [7. BeanDefinition](src/docs/07-BeanDefinition.md) |
-| 8 | 웹 애플리케이션과 싱글톤 | [8. 웹 애플리케이션과 싱글톤](src/docs/08-웹-어플리케이션과-싱글톤.md) |
-| 9 | 컴포넌트 스캔 | [9. 컴포넌트 스캔](src/docs/09-컴포넌트-스캔.md) |
-| 10 | 의존관계 주입 방법 | [10. 의존관계 주입 방법](src/docs/10-의존관계-주입-방법.md) |
-| 11 | 빈 2개 등록 시 해결 | [11. 빈 2개 등록 시 해결](src/docs/11-빈-2개-등록-시-해결.md) |
-| 12 | 빈 생명주기 콜백 | [12. 빈 생명주기 콜백](src/docs/12-빈-생명주기-콜백.md) |
-| 13 | 빈 스코프 | [13. 빈 스코프](src/docs/13-빈-스코프.md) |
+| 1 | 회원 도메인 실행과 테스트 | [1. 회원 도메인 실행과 테스트](src/docs/01-member-domain-test.md) |
+| 2 | 주문과 할인 도메인 실행과 테스트 | [2. 주문과 할인 도메인 실행과 테스트](src/docs/02-order-discount-domain-test.md) |
+| 3 | 새로운 할인 정책 적용과 문제점 | [3. 새로운 할인 정책 적용과 문제점](src/docs/03-discount-policy-problem.md) |
+| 4 | 관심사의 분리 | [4. 관심사의 분리](src/docs/04-separation-of-concerns.md) |
+| 5 | 스프링으로 전환하기 | [5. 스프링으로 전환하기](src/docs/05-spring-transition.md) |
+| 6 | BeanFactory와 ApplicationContext | [6. BeanFactory와 ApplicationContext](src/docs/06-beanfactory-applicationcontext.md) |
+| 7 | BeanDefinition | [7. BeanDefinition](src/docs/07-bean-definition.md) |
+| 8 | 웹 애플리케이션과 싱글톤 | [8. 웹 애플리케이션과 싱글톤](src/docs/08-webapp-singleton.md) |
+| 9 | 컴포넌트 스캔 | [9. 컴포넌트 스캔](src/docs/09-component-scan.md) |
+| 10 | 의존관계 주입 방법 | [10. 의존관계 주입 방법](src/docs/10-di-methods.md) |
+| 11 | 빈 2개 등록 시 해결 | [11. 빈 2개 등록 시 해결](src/docs/11-duplicate-bean-solution.md) |
+| 12 | 빈 생명주기 콜백 | [12. 빈 생명주기 콜백](src/docs/12-bean-lifecycle-callback.md) |
+| 13 | 빈 스코프 | [13. 빈 스코프](src/docs/13-bean-scope.md) |
 
 ## 🧪 프로젝트 구조
 
